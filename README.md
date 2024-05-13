@@ -6,4 +6,4 @@
 Tecnologias
 <div>HTML, CSS, JavaScript</div>
 
-Time
+Criado e editado por Lucas Feitosa
